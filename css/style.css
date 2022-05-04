@@ -161,7 +161,7 @@ body {
   background-image: url(../img/footer-2.svg);
   background-repeat: no-repeat;
   background-size: 100%;
-  /* height: 90vh; */
+  height: auto;
   padding: 300px 0px 100px 100px;
 }
 .list {
