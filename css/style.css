@@ -164,6 +164,9 @@ body {
   height: auto;
   padding: 300px 0px 100px 100px;
 }
+.footer-row{
+  margin-top: -50px;
+}
 .list {
   list-style-type: none;
   margin-left: 0;
